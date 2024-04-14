@@ -1,0 +1,2 @@
+Data/NinjaOrigin.exe filter=lfs diff=lfs merge=lfs -text
+DataTemp/NinjaOrigin.exe filter=lfs diff=lfs merge=lfs -text
